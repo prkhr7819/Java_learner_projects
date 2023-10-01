@@ -57,7 +57,7 @@ class Solution{
             else{
             }
         }
-        System.out.printf("Maximum no. is: %.2f and minimum no. is: %.2f",max,min);
+        System.out.printf("Maximum no. is: %.2f and Minimum no. is: %.2f",max,min);
 //        Program to find if array is sorted
         int acount=0;
         int dcount=0;
@@ -76,13 +76,13 @@ class Solution{
             }
         }
         if(acount==0){
-            System.out.println("\nArray is ascending sorted");
+            System.out.println("\nNew Array is ascending sorted");
         }
         else if(dcount==0){
-            System.out.println("\nArray is descending sorted");
+            System.out.println("\nNew Array is descending sorted");
         }
         else{
-            System.out.println("\nArray is not sorted");
+            System.out.println("\nNew Array is not sorted");
         }
     }
 }

@@ -12,3 +12,7 @@ Creating an array with user defined size and user input float values. Then perfo
 <br>
 ## Project.3)
 Initialising a string and then performing following operations on it:-<br>&nbsp;1) Convert al characters into lowercase.<br>&nbsp;2) Convert all spaces into underscores.<br>&nbsp;3) Replace the first word in the string to a variable.<br>&nbsp;4) Find if any double or triple spaces are present. if present then print its index and convert into single spaces.
+## Project.4)
+Creating a Rock, paper, Scissors game.
+## Project.5)
+Printing the multiplication table of a user input number with user input iterations also printing the sum of the multiplication table aswell.

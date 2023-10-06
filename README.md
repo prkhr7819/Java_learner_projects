@@ -16,3 +16,5 @@ Initialising a string and then performing following operations on it:-<br>&nbsp;
 Creating a Rock, paper, Scissors game.
 ## Project.5)
 Printing the multiplication table of a user input number with user input iterations also printing the sum of the multiplication table aswell.
+## Project.6)
+Print fibonnaci series using recursion concept.

@@ -29,7 +29,9 @@ class Solution{
 
         public static void main(String[] args)
         {
-            String exp = "231+*";
+            Scanner sc = new Scanner(System.in);
+
+            String exp = sc.nextLine();
 
             System.out.println("postfix evaluation: " + evaluatePostfix(exp));
         }

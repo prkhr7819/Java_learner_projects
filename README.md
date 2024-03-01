@@ -18,3 +18,7 @@ Creating a Rock, paper, Scissors game.
 Printing the multiplication table of a user input number with user input iterations also printing the sum of the multiplication table aswell.
 ## Project.6)
 Print fibonnaci series using recursion concept.
+## Project.7)
+Take postfix notation as input and print the evaluation.
+## Project.8)
+Take array of candies with kids and extra candies as input. Then print "True" if extra candies can help the kid to now have max candies else print "false".
